@@ -4,4 +4,4 @@ removes fog
 
 idgaf your getting gameobject.find
 
-u have to rename the folder to CapuchinTemplate bc im dumb
+u have to rename the folder to CapuchinTemplate if ur compling it manually bc im dumb
