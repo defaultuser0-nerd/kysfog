@@ -3,3 +3,5 @@
 removes fog
 
 idgaf your getting gameobject.find
+
+u have to rename the folder to CapuchinTemplate bc im dumb
